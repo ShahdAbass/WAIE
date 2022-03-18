@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #e65d5f;
+  background: #78ddae;
   color: #fff;
 }
 .back-to-top.active {
@@ -824,7 +824,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #78ddae;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -884,7 +884,7 @@ section {
   border-radius: 4px;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: #e35052;
+  background: #78ddae;
 }
 @-webkit-keyframes animate-loading {
   0% {
@@ -1020,7 +1020,7 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #e35052;
+  background: #78ddae;
 }
 #footer .credits {
   padding-top: 5px;
